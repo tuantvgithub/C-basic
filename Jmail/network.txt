@@ -1,0 +1,3 @@
+Admin0	Admin0	0	0			none
+a	a	123	1	abc
+tran	a	123123123	2000		tran van tuan

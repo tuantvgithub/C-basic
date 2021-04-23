@@ -1,0 +1,503 @@
+Bài 1: Chọn phương án sai. Người ta thường sử dụng đơn vị đo độ dài là
+A. mét (m)
+B. kilômét (km)
+C. mét khối (m 3 )
+D. đềximét (dm)
+
+Bài 2: Giới hạn đo của thước là
+A. độ dài lớn nhất ghi trên thước.
+B. độ dài giữa hai vạch chia liên tiếp trên thước.
+C. độ dài nhỏ nhất ghi trên thước.
+D. độ dài giữa hai vạch bất kỳ ghi trên thước.
+
+Bài 3: Dụng cụ nào trong các dụng cụ sau không được sử dụng để đo chiều dài
+A. Thước dây
+B. Thước mét
+C. Thước kẹp
+D. Compa
+
+Bài 4: Đơn vị đo độ dài hợp pháp thường dùng ở nước ta là
+A. mét (m)
+B. xemtimét (cm)
+C. milimét (mm)
+D. đềximét (dm)
+
+Bài 5: Độ chia nhỏ nhất của một thước là:
+A. số nhỏ nhất ghi trên thước.
+B. độ dài giữa hai vạch chia liên tiếp ghi trên thước.
+C. độ dài giữa hai vạch dài, giữa chúng còn có các vạch ngắn hơn.
+D. độ lớn nhất ghi trên thước.
+
+Bài 6: Cho biết thước ở hình bên có giới hạn đo là 8 cm. Hãy xác định độ chia nhỏ nhất của thước.
+A. 1 mm
+B. 0,2 cm
+C. 0,2 mm
+D. 0,1 cm
+
+Bài 7: Trên một cái thước có số đo lớn nhất là 30, số nhỏ nhất là 0, đơn vị là cm. Từ vạch số 0 đến vạch số 1 được chia làm 10 khoảng bằng nhau. Vậy GHĐ và ĐCNN của thước là:
+A. GHĐ 30 cm, ĐCNN 1 cm
+B. GHĐ 30 cm, ĐCNN 1 mm
+C. GHĐ 30 cm, ĐCNN 0,1 mm
+D. GHĐ 1 mm, ĐCNN 30 cm
+
+Bài 8: Xác định giới hạn đo và độ chia nhỏ nhất của thước trong hình
+A. GHĐ 10 cm, ĐCNN 1 mm.
+B. GHĐ 20 cm, ĐCNN 1 cm.
+C. GHĐ 100 cm, ĐCNN 1 cm.
+D. GHĐ 10 cm, ĐCNN 0,5 cm.
+
+Bài 9: Để đo khoảng cách từ Trái Đất lên Mặt Trời người ta dùng đơn vị:
+A. Kilômét
+B. Năm ánh sáng
+C. Dặm
+D. Hải lí
+
+Bài 10: Thuật ngữ “Tivi 21 inches” để chỉ:
+A. Chiều dài của màn hình tivi.
+B. Đường chéo của màn hình tivi.
+C. Chiều rộng của màn hình tivi.
+D. Chiều rộng của cái tivi.
+
+Bài 1: Khi đo độ dài một vật, người ta chọn thước đo:
+A. Có GHĐ lớn hơn chiều dài cần đo và có ĐCNN thích hợp.
+B. Có GHĐ lớn hơn chiều dài cần đo và không cần để ý đến ĐCNN của thước.
+C. Thước đo nào cũng được.
+D. Có GHĐ nhỏ hơn chiều dài cần đo vì có thể đo nhiều lần.
+
+Bài 3: Nguyên nhân gây ra sai số khi đo chiều dài của một vật là
+A. Đặt thước không song song và cách xa vật.
+B. Đặt mắt nhìn lệch.
+C. Một đầu của vật không đặt đúng vạch số 0 của thước.
+D. Cả 3 nguyên nhân trên
+
+Bài 4: Một bạn dùng thước đo độ dài có ĐCNN là 1mm để đo độ dài bảng đen. Trong các cách ghi kết quả dưới đây, cách ghi nào là đúng?
+A. 2000 mm
+B. 200 cm
+C. 20 dm
+D. 2 m
+
+Bài 5: Khi đo chiều dài của một vật, cách đặt thước đúng là:
+A. Đặt thước dọc theo chiều dài vật, một đầu nằm ngang bằng với vạch 0.
+B. Đặt thước dọc theo chiều dài của vật.
+C. Đặt thước vuông góc với chiều dài của vật.
+D. Các phương án trên đều sai.
+
+Bài 6: Một bạn dùng thước đo diện tích tờ giấy hình vuông và ghi kết quả: 106 cm2. Bạn ấy đã dùng thước đo có ĐCNN là
+A. 1 cm
+B. 5 mm
+C. lớn hơn 1 cm
+D. nhỏ hơn 1 cm
+
+Bài 7: Kết quả đo chiều dài và chiều rộng của một tờ giấy được ghi là 29,5 cm và 21,2 cm. Thước đo đã dùng có độ chia nhỏ nhất là
+A. 0,1 cm
+B. 0,2 cm
+C. 0,5 cm
+D. 0,1 mm
+
+Bài 8: Để đo chiều dài của một vật (lớn hơn 30 cm, nhỏ hơn 50 cm) nên chọn thước nào trong các thước sau đây là phù hợp nhất?
+A. Thước có GHĐ 20 cm và ĐCNN 1 mm.
+B. Thước có GHĐ 50 cm và ĐCNN 1 cm.
+C. Thước có GHĐ 50 cm và ĐCNN 1 mm.
+D. Thước có GHĐ 1 m và ĐCNN cm.
+
+Bài 9: Để đo số đo cơ thể của khách may quần áo, người thợ may nên dùng thước đo nào dưới đây để có độ chính xác nhất?
+A. Thước thẳng có GHĐ 1 m, ĐCNN 1 cm.
+B. Thước thẳng có GHĐ 1 m, ĐCNN 1 mm.
+C. Thước dây có GHĐ 1 m, ĐCNN 1 cm.
+D. Thước dây có GHĐ 1 m, ĐCNN 1 mm.
+
+Bài 10: Chiều dài của chiếc bút chì ở hình vẽ bằng:
+A. 6,6 cm
+B. 6,5 cm
+C. 6,8 cm
+D. 6,4 cm
+
+Bài 1: Giới hạn đo của bình chia độ là:
+A. giá trị lớn nhất ghi trên bình.
+B. giá trị giữa hai vạch chia ghi trên bình.
+C. thể tích chất lỏng mà bình đo được.
+D. giá trị giữa hai vạch chia liên tiếp ghi trên bình.
+
+Bài 2: Đơn vị đo thể tích thường dùng là:
+A. mét (m)
+B. kilôgam (kg)
+C. Mét khối (m 3 ) và lít (l)
+D. mét vuông (m 2 )
+
+Bài 3: Khi đo thể tích chất lỏng cần:
+A. Đặt bình chia độ nằm ngang.
+B. Đặt mắt nhìn ngang với độ cao mực chất lỏng trong bình.
+C. Đặt mắt nhìn xiên với độ cao mực chất lỏng trong bình.
+D. Đặt mắt nhìn vuông góc với độ cao mực chất lỏng trong bình.
+
+Bài 4: Điền vào chỗ trống: 150 ml = ........ m 3 = .......
+A. 0,00015 m 3 ; 0,15
+B. 0,00015 m 3 ; 0,015
+C. 0,000015 m 3 ; 0,15
+D. 0,0015 m 3 ; 0,015
+
+Bài 5: Người ta đo thể tích chất lỏng bằng bình chia độ có ĐCNN là 0,5 cm 3 . Hãy chỉ ra kết quả đúng trong những trường hợp dưới đây?
+A. V 1 = 22,3 cm 3
+B. V 2 = 22,50 cm 3
+C. V 3 = 22,5 cm 3
+D. V 4 = 22 cm 3
+
+Bài 6: Trên một hộp sữa tươi có ghi 200 ml. Con số đó cho biết:
+A. Thể tích của hộp sữa là 200 ml.
+B. Thể tích sữa trong hộp là 200 ml
+C. Khối lượng của hộp sữa
+D. Khối lượng sữa trong hộp
+
+Bài 7: Để đo thể tích của một chất lỏng còn gần đầy chai 1 lít, trong các bình chia độ đã cho sau đây, bình chia độ nào là phù hợp nhất?
+A. Bình 100 ml và có vạch chia tới 1 ml.
+B. Bình 500 ml và có vạch chia tới 5 ml.
+C. Bình 1000 ml và có vạch chia tới 5 ml.
+D. Bình 2000 ml và có vạch chia tới 10 ml.
+
+Bài 8: Một người bán dầu chỉ có một cái ca 0,5 lít và một cái ca 1 lít. Người đó chỉ bán được dầu cho khách hàng nào sau đây?
+A. Khách hàng cần mua 1,4 lít
+B. Khách hàng cần mua 3,5 lít
+C. Khách hàng cần mua 2,7 lít
+D. Khách hàng cần mua 3,2 lít
+
+Bài 9: Cho một bình sữa như hình vẽ. Giới hạn đo và độ chia nhỏ nhất của bình lần lượt là:
+A. GHĐ 150 ml, ĐCNN 30 ml
+B. GHĐ 150 ml, ĐCNN 15 ml
+C. GHĐ 150 ml, ĐCNN 20 ml
+D. GHĐ 150 ml, ĐCNN 10 ml
+
+Bài 10: Thể tích mực chất lỏng trong bình là:
+A. 38 cm 3
+B. 39 cm 3
+C. 36 cm 3
+D. 35 cm 3
+
+Bài 1: Khi sử dụng bình tràn và bình chứa để đo thể tích vật rắn không thấm nước thì thể tích của vật bằng
+A. thể tích bình chứa.
+B. thể tích bình tràn.
+C. thể tích phần nước tràn ra từ bình tràn sang bình chứa.
+D. thể tích nước còn lại trong bình tràn.
+
+Bài 2: Công thức tính thể tích của vật rắn khi đo bằng bình chia độ:
+A. V rắn = V lỏng – rắn - V lỏng
+B. V rắn = V lỏng + rắn - V lỏng
+C. V rắn = V lỏng – rắn + V lỏng
+D. V rắn = V lỏng + rắn + V lỏng
+
+Bài 3: Để đo thể tích của hòn sỏi cỡ 15 cm 3 , bình chia độ nào sau đây thích hợp nhất?
+A. Bình có GHĐ 250 ml, ĐCNN 10 ml
+B. Bình có GHĐ 100 ml, ĐCNN 2 ml
+C. Bình có GHĐ 250 ml, ĐCNN 5 ml
+D. Bình có GHĐ 100 ml, ĐCNN 1 ml
+
+Bài 4: Cho một vật rắn không thấm nước vào bình chia độ có chứa sẵn 50 cm 3 nước. Ta thấy nước trong bình dâng đến vạch 100 cm 3 . Vậy thể tích vật rắn là:
+A. 50 cm 3
+B. 150 cm 3
+C. 96 cm 3
+D. 100 cm 3
+
+Bài 5: Một bình tràn chỉ có thể chứa nhiều nhất là 100 cm 3 nước, đang đựng 60 cm 3 nước. Thả một vật rắn không thấm nước vào bình thì thấy thể tích nước tràn ra khỏi bình là 30 cm 3 . Thể tích của vật rắn bằng bao nhiêu?
+A. 40 cm 3
+B. 90 cm 3
+C. 70 cm 3
+D. 30 cm 3
+
+Bài 6: Để đo thể tích của một đồng xu bằng kim loại. Bạn Nga đã bỏ vào bình chia độ đang chứa nước 10 đồng kim loại đó. Thể tích nước dâng lên thêm trong bình là 3 ml. Thể tích mỗi đồng kim loại đó là:
+A. 0,0003 dm 3
+B. 0,003 dm 3
+C. 0,0003 m 3
+D. 0,001 cm 3
+
+Bài 7: Bạn Lan dùng bình chia độ để đo thể tích một viên sỏi. Kết quả đúng là 55,7 cm 3 . Bạn Lan đã dùng bình nào trong các bình sau?
+A. Bình có ĐCNN 1 cm 3
+B. Bình có ĐCNN 0,1 cm 3
+C. Bình có ĐCNN 0,5 cm 3
+D. Bình có ĐCNN 0,2 cm 3
+
+Bài 8: Để đo thể tích của vật rắn không thấm nước và có thể chìm hoàn toàn trong nước chỉ cần
+A. một bình chia độ bất kì.
+B. một bình tràn.
+C. một bình chia độ có kích thước sao cho vật rắn có thể bỏ lọt vào bình.
+D. một ca đong.
+
+Bài 10: Khi thả một quả cam vào một bình tràn chứa đầy nước thì nước tràn vào một bình chia độ có GHĐ 300 cm 3 và ĐCNN 5 cm 3 . Mực nước trong bình chia độ lên tới vạch số 215. Thể tích của quả cam bằng bao nhiêu?
+A. 215 cm 3
+B. 85 cm 3
+C. 300 cm 3
+D. Cả A, B, C đều sai
+
+Bài 1: Trên một hộp mứt Tết có ghi 250g. Con số đó chỉ:
+A. sức nặng của hộp mứt
+B. thể tích của hộp mứt
+C. khối lượng của mứt trong hộp mứt
+D. sức nặng của hộp mứt
+
+Bài 2: Dùng cân Rô – béc – van có đòn cân phụ để cân một vật. Khi cân thăng bằng thì khối lượng của vật bằng:
+A. giá trị của số chỉ của kim trên bảng chia độ.
+B. giá trị của số chỉ của con mã trên đòn cân phụ.
+C. tổng khối lượng của các quả cân trên đĩa.
+D. tổng khối lượng của các quả cân đặt trên đĩa cộng với giá trị của số chỉ của con mã.
+
+Bài 4: Trong các số liệu dưới đây, số liệu nào chỉ khối lượng của hàng hóa?
+A. Trên nhãn của chai nước khoáng có ghi: 330 ml
+B. Trên vỏ hộp Vitamin B1 có ghi: 1000 viên nén
+C. Ở một số cửa hàng vàng bạc có ghi: vàng 99,99
+D. Trên bao bì túi xà phòng có ghi: 1 kg
+
+Bài 5: Khi đo khối lượng của một vật bằng một cái cân có ĐCNN là 10g. Kết quả nào sau đây là đúng?
+A. 298 g
+B. 302 g
+C. 3000 g
+D. 305 g
+
+Bài 6: Cân một túi hoa quả, kết quả là 1553g. ĐCNN của cân đã dùng là:
+A. 5 g
+B. 100 g
+C. 10 g
+D. 1 g
+
+Bài 7: Trên một viên thuốc cảm có ghi “Para 500...”. Em hãy tìm hiểu thực tế để xem ở chỗ để trống phải ghi đơn vị nào dưới đây?
+A. mg
+B. tạ
+C. g
+D. kg
+
+Bài 8: Với một cân Rô – béc – van và hộp quả cân, phát biểu nào sau đây đúng?
+A. Độ chia nhỏ nhất của cân là khối lượng nhỏ nhất ghi trên cân.
+B. Giới hạn đo của cân là khối lượng lớn nhất ghi trên cân.
+C. Độ chia nhỏ nhất của cân là khối lượng của quả cân nhỏ nhất.
+D. Độ chia nhỏ nhất của cân là khối lượng của quả cân lớn nhất.
+
+Bài 9: Giới hạn đo của cân Rô – béc – van là:
+A. khối lượng của một quả cân nhỏ nhất có trong hộp.
+B. khối lượng của một quả cân nhỏ nhất có trong hộp.
+C. tổng khối lượng các quả cân có trong hộp.
+D. tổng khối lượng các quả cân lớn nhất có trong hộp.
+
+Bài 10: Trước một chiếc cầu có một biển báo giao thông có ghi “5T”. Số 5T có ý nghĩa gì?
+A. Số 5T chỉ dẫn rằng xe có trên 5 người ngồi thì không được đi qua cầu.
+B. Số 5T chỉ dẫn rằng xe có khối lượng trên 5 tấn thì không được đi qua cầu.
+C. Số 5T chỉ dẫn rằng xe có khối lượng trên 50 tấn thì không được đi qua cầu.
+D. Số 5T chỉ dẫn rằng xe có khối lượng trên 5 tạ thì không được đi qua cầu.
+
+Bài 1: Hai lực nào sau đây gọi là hai lực cân bằng?
+A. Hai lực cùng phương, cùng chiều, mạnh như nhau tác dụng lên hai vật khác nhau.
+B. Hai lực cùng phương, ngược chiều, mạnh như nhau tác dụng lên hai vật khác nhau.
+C. Hai lực cùng phương, cùng chiều, mạnh như nhau tác dụng lên cùng một vật.
+D. Hai lực có phương trên cùng một đường thẳng, ngược chiều, mạnh như nhau tác dụng lên cùng một vật.
+
+Bài 2: Gió tác dụng vào buồm một lực có
+A. phương song song với mạn thuyền, cùng chiều với chiều chuyển động của thuyền.
+B. phương song song với mạn thuyền, ngược chiều với chiều chuyển động của thuyền.
+C. phương vuông góc với mạn thuyền, chiều từ trên xuống.
+D. phương vuông góc với mạn thuyền, chiều từ dưới lên.
+
+Bài 3: Sợi dây kéo co của hai bạn giữ nguyên vị trí vì
+A. lực kéo của bạn 1 tác dụng vào dây cân bằng với lực của dây tác dụng vào tay bạn 1.
+B. lực kéo của bạn 2 tác dụng vào sợi dây cân bằng với lực kéo của bạn 1 tác dụng vào sợi dây.
+C. lực kéo của bạn 2 tác dụng vào sợi dây cân bằng với lực dây tác dụng vào tay bạn 1.
+D. lực kéo của bạn 1 tác dụng vào dây cân bằng với lực của dây tác dụng vào tay bạn 2.
+
+Bài 4: Dụng cụ nào sau đây dùng để đo lực?
+A. Cân Rô – béc – van
+B. Lực kế
+C. Nhiệt kế
+D. Thước
+
+Bài 5: Chọn từ thích hợp điền vào chỗ trống: Khi một lực sĩ bắt đầu ném một quả tạ, lực sĩ đã tác dụng
+vào quả tạ một .........
+A. lực nâng
+B. lực kéo
+C. lực uốn
+D. lực đẩy
+
+Bài 6: Chiếc bàn học nằm yên trên sàn vì
+A. không chịu tác dụng của lực nào.
+B. chỉ chịu lực nâng của sàn.
+C. chịu hai lực cân bằng: Lực nâng của sàn và lực hút của Trái Đất.
+D. chỉ chịu lực hút của Trái Đất.
+
+Bài 7: Một người kéo và một người đẩy cùng một chiếc xe lên dốc. Xe không nhúc nhích. Cặp lực nào dưới đây là cặp lực cân bằng?
+A. Lực người kéo và lực người đẩy lên chiếc xe.
+B. Lực người kéo chiếc xe và lực chiếc xe kéo lại người đó.
+C. Lực người đẩy chiếc xe và lực chiếc xe đẩy lại người đó.
+D. Cả ba cặp lực nói trên đều không phải là các cặp lực cân bằng.
+
+Bài 8: Hoạt động nào dưới đây không cần dùng đến lực?
+A. Đọc một trang sách
+B. Xách một xô nước
+C. Nâng một tấm gỗ
+D. Đẩy một chiếc xe
+
+Bài 9: Phát biểu nào sau đây không đúng?
+A. Tác dụng đẩy, kéo của vật này lên vật khác gọi là lực.
+B. Nếu chỉ có hai lực tác dụng vào cùng một vật mà vật vẫn đứng yên thì hai lực đó là hai lực cân bằng.
+C. Hai lực cân bằng là hai lực mạnh như nhau, có cùng phương nhưng ngược chiều.
+D. Nếu chỉ có hai lực tác dụng vào cùng một vật thì hai lực đó là hai lực cân bằng.
+
+Bài 10: Cặp lực nào không cân bằng trong các cặp lực sau?
+A. Lực của mặt nước và lực hút của Trái Đất tác dụng vào thuyền để thuyền đứng yên trên mặt nước.
+B. Lực của hai em bé kéo hai đầu sợi dây khi sợi dây đứng yên.
+C. Lực mà lò xo tác dụng vào vật và lực mà vật tác dụng vào lò xo.
+D. Lực nâng của sàn và lực hút của Trái Đất tác dụng vào bàn
+
+Bài 1: Trường hợp nào sau đây vật không bị biến dạng khi chịu tác dụng của lực?
+A. Cửa kính bị vỡ khi bị va đập mạnh.
+B. Đất xốp khi được cày xới cẩn thận.
+C. Cành cây đu đưa khi có gió thổi.
+D. Tờ giấy bị nhàu khi ta vò nó lại
+
+Bài 2: Một học sinh đá quả bóng nhựa vào tường sau đó quả bóng bị méo đi. Lực tác dụng lên quả bóng sẽ gây ra những kết quả nào sau đây?
+A. không làm chuyển động quả banh.
+B. vừa làm biến dạng và biến đổi chuyển động quả bóng.
+C. chỉ làm biến dạng mà không làm biến đổi chuyển động quả bóng.
+D. không làm biến dạng quả bóng.
+
+Bài 3: Trong các chuyển động sau, chuyển động nào đã bị biến đổi?
+A. Một chiếc xe đạp đang đi, bỗng hãm phanh, xe dừng lại.
+B. Một máy bay đang bay thẳng với vận tốc không đổi 500 km/h.
+C. Một chiếc xe máy đang chạy với tốc độ đều đặn. D. Quả bóng đang nằm yên trên mặt đất.
+
+Bài 4: Khi một người ngồi lên xe máy làm lốp xe biến dạng, nguyên nhân của sự biến dạng là do đâu?
+A. Lốp xe không chịu lực nào tác dụng.
+B. Lực hút của Trái Đất tác dụng vào người.
+C. Lực của người tác dụng vào lốp xe.
+D. Lực của mặt đất tác dụng vào lốp xe.
+
+Bài 5: Lực có thể gây ra những tác dụng nào dưới đây?
+A. Chỉ có thể làm cho vật đang đứng yên phải chuyển động.
+B. Chỉ có thể làm cho vật đang chuyển động phải dừng lại.
+C. Chỉ có thể làm cho vật biến dạng.
+D. Có thể gây ra tất cả các lực nêu trên.
+
+Bài 6: Buộc một đầu dây cao su lên giá đỡ treo vào đầu còn lại một túi nilong đựng nước. Dựa vào dấu hiệu nào sau đây để biết túi nilong đựng nước tác dụng vào dây cao su một lực?
+A. Túi nilong đựng nước không rơi.
+B. Túi nilong đựng nước bị biến dạng.
+C. Dây cao su dãn ra.
+D. Cả ba dấu hiệu trên.
+
+Bài 7: Khi chịu tác dụng của lực, vật vừa bị biến dạng, vừa đổi hướng chuyển động. Trường hợp nào sau đây thể hiện điều đó:
+A. Khi có gió thổi cành cây đu đưa qua lại.
+B. Khi đập mạnh quả bóng vào tường quả bóng bật trở lại.
+C. Khi xoay tay lái ô tô đổi hướng chuyển động.
+D. Khi có gió thổi hạt mưa bay theo phương xiên.
+
+Bài 8: Một học sinh thả một quả bóng từ trên cao xuống và nhận thấy quả bóng càng rơi, càng chuyển động nhanh lên. Hỏi phát biểu nào sau đây của học sinh này là đúng?
+A. Quả bóng không còn chịu tác dụng của lực nào vì tay ta đã thả quả bóng ra.
+B. Quả bóng rơi nhanh dần nên phải chịu tác dụng của một lực, lực này chỉ có thể là lực của tay ta.
+C. Quả bóng là một vật nặng nên giống như mọi vật nặng khác, khi được thả ra từ trên cao, đều rơi xuống nhanh dần, dù không chịu tác dụng của lực nào.
+D. Quả bóng đã được thả ra nên không còn chịu tác dụng của lực tay. Tuy nhiên quả bóng rơi nhanh dần nên phải chịu tác dụng của một lực, lực này không thể là lực của tay ta mà là một lực khác.
+
+Bài 9: Chuyển động của các vật nào dưới đây không bị biến đổi?
+A. Một máy bay đang bay thẳng với vận tốc 500 km/h.
+B. Một con châu chấu đang đậu trên một chiếc lá lúa, bỗng đập càng nhảy và bay đi.
+C. Một chiếc xe đạp đang đi, bỗng bị hãm phanh, xe dừng lại.
+D. Một chiếc xe máy đang chạy, bỗng được tăng ga, xe chạy nhanh lên.
+
+Bài 10: Một hòn đá bị ném mạnh vào một gò đất. Lực mà hòn đá tác dụng vào gò đất
+A. chỉ làm gò đất bị biến dạng.
+B. chỉ làm biến đổi chuyển động của gò đất.
+C. làm cho gò đất bị biến dạng, đồng thời làm biến đổi chuyển động của gò đất.
+D. không gây ra tác dụng gì.
+
+Bài 1: Nhận xét nào sau đây sai?
+A. Khối lượng của một vật chỉ lượng chất tạo nên vật đó.
+B. Khối lượng của một vật không thay đổi theo vị trí đặt vật.
+C. Vì P = 10m nên khối lượng và trọng lượng của vật không thay đổi theo vị trí đặt vật.
+D. Biết khối lượng của một vật ta có thể suy ra trọng lượng của vật đó.
+
+Bài 2: Đơn vị trọng lượng là gì?
+A. N
+B. N.m
+C. N.m 2
+D. N/m 3
+
+Bài 3: Một chiếc tàu thùy nổi được trên mặt nước là nhờ có những lực nào tác dụng vào nó?
+A. chỉ nhờ trọng lực do Trái Đất hút xuống phía dưới
+B. chỉ nhờ lực nâng của nước đẩy lên
+C. nhờ trọng lực do Trái Đất hút xuống và lực nâng của nước đẩy lên cân bằng nhau.
+D. nhờ lực hút của Trái Đất, lực nâng của nước và lực đẩy của chân vịt phía sau tàu.
+
+Bài 4: Nếu so sánh một quả cân 1 kg và một tập giấy 1 kg thì:
+A. tập giấy có khối lượng lớn hơn.
+B. quả cân có trọng lượng lớn hơn.
+C. quả cân và tập giấy có trọng lượng bằng nhau.
+D. quả cân và tập giấy có thể tích bằng nhau.
+
+Bài 5: Chỉ có thể nói trọng lực của vật nào sau đây?
+A. Trái Đất
+B. Mặt Trăng
+C. Mặt Trời
+D. Hòn đá trên mặt đất
+
+Bài 6: Trọng lực có:
+A. Phương thẳng đứng, chiều từ trên xuống dưới.
+B. Phương thẳng đứng, chiều từ dưới lên trên.
+C. Phương ngang, chiều từ trái sang phải.
+D. Phương ngang, chiều từ phải sang trái.
+
+Bài 7: Lực nào sau đây không thể là trọng lực?
+A. Lực tác dụng lên vật nặng đang rơi
+B. Lực tác dụng lên một quả bóng bay làm quả bóng hạ thấp dần
+C. Lực vật nặng tác dụng vào dây treo
+D. Lực mặt bàn tác dụng lên vật đặt trên bàn.
+
+Bài 8: Ba khối kim loại : 1kg đồng, 1kg sắt và 1kg nhôm. Khối nào có trọng lượng lớn nhất?
+A. Khối đồng
+B. Khối sắt
+C. Khối nhôm
+D. Ba khối có trọng lượng bằng nhau.
+
+Bài 9: Trường hợp nào sau đây là ví dụ về trọng lực có thể làm cho một vật đang đứng yên phải chuyển động?
+A. Một vật được thả thì rơi xuống.
+B. Một vật được tay kéo trượt trên mặt bàn nằm ngang.
+C. Quả bóng được đá thì lăn trên sàn.
+D. Một vật được ném thì bay lên cao.
+
+Bài 10: Trọng lượng của một quyển sách đặt trên bàn là:
+A. lực của mặt bàn tác dụng vào quyển sách.
+B. cường độ của lực hút của Trái Đất tác dụng vào quyển sách.
+C. lượng chất chứa trong quyển sách.
+D. khối lượng của quyển sách.
+
+Bài 1: Lực nào sau đây là lực đàn hồi?
+A. Lực nam châm hút đinh sắt.
+B. Lực hút của Trái Đất
+C. Lực gió thổi vào buồm làm thuyền chạy.
+D. Lực đẩy cung tác dụng vào mũi tên làm mũi tên bắn đi.
+
+Bài 2: Phát biểu nào sau đây về lực đàn hồi của một lò xo là đúng?
+A. Độ biến dạng của lò xo càng nhỏ thì lực đàn hồi càng nhỏ.
+B. Chiều dài của lò xo khi bị kéo dãn càng nhỏ thì lực đàn hồi càng lớn.
+C. Trong hai trường hợp lò xo có chiều dài khác nhau: trường hợp nào lò xo dài hơn thì lực đàn hồi mạnh hơn.
+D. Chiều dài của lò xo khi bị kéo dãn càng lớn thì lực đàn hồi càng nhỏ.
+
+Bài 3: Các vật nào sau đây có tính chất đàn hồi?
+A. Một tờ giấy bị gấp đôi
+B. Một thanh sắt
+C. Một cục đất sét
+D. Lò xo
+
+Bài 4: Lò xo không bị biến dạng khi
+A. dùng tay kéo dãn lò xo
+B. dùng tay ép chặt lò xo
+C. kéo dãn lò xo hoặc ép chặt lò xo
+D. dùng tay nâng lò xo lên
+
+Bài 5: Lực đàn hồi có đặc điểm
+A. không phụ thuộc vào độ biến dạng.
+B. độ biến dạng tăng thì lực đàn hồi giảm.
+C. phụ thuộc vào môi trường bên ngoài.
+D. độ biến dạng tăng thì lực đàn hồi tăng.
+
+Bài 6: Lực nào trong các lực dưới đây không phải là lực đàn hồi?
+A. Lực mà lò xo bút bi tác dụng vào ngòi bút.
+B. Lực của quả bóng tác dụng vào tường khi quả bóng va chạm với tường.
+C. Lực của giảm xóc xe máy tác dụng vào khung xe máy.
+D. Lực nâng tác dụng vào cánh máy bay khi máy bay chuyển động.
+
+Bài 7: Một lò xo xoắn có độ dài ban đầu là 20 cm. Khi treo một quả cân, độ dài của lò xo là 22 cm. Nếu treo ba quả cân như thế thì lò xo bị dãn ra so với ban đầu một đoạn là:
+A. 4 cm
+B. 6 cm
+C. 24 cm
+D. 26 cm

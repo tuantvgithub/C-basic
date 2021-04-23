@@ -1,0 +1,60 @@
+Câu 1 : Trên một viên thuốc cảm có ghi “Para 500...”. Em hãy tìm hiểu thực tế để xem ở chỗ để trống phải ghi đơn vị nào dưới đây?
+a. mg
+b. tạ
+c. g
+d. kg
+
+Câu 2 : Trên một cái thước có số đo lớn nhất là 30, số nhỏ nhất là 0, đơn vị là cm. Từ vạch số 0 đến vạch số 1 được chia làm 10 khoảng bằng nhau. Vậy GHĐ và ĐCNN của thước là:
+a. GHĐ 30 cm, ĐCNN 1 cm
+b. GHĐ 30 cm, ĐCNN 1 mm
+c. GHĐ 30 cm, ĐCNN 0,1 mm
+d. GHĐ 1 mm, ĐCNN 30 cm
+
+Câu 3 : Trong các số liệu dưới đây, số liệu nào chỉ khối lượng của hàng hóa?
+a. Trên nhãn của chai nước khoáng có ghi: 330 ml
+b. Trên vỏ hộp Vitamin B1 có ghi: 1000 viên nén
+c. Ở một số cửa hàng vàng bạc có ghi: vàng 99,99
+d. Trên bao bì túi xà phòng có ghi: 1 kg
+
+Câu 4 : Gió tác dụng vào buồm một lực có
+a. phương song song với mạn thuyền, cùng chiều với chiều chuyển động của thuyền.
+b. phương song song với mạn thuyền, ngược chiều với chiều chuyển động của thuyền.
+c. phương vuông góc với mạn thuyền, chiều từ trên xuống.
+d. phương vuông góc với mạn thuyền, chiều từ dưới lên.
+
+Câu 5 : Nguyên nhân gây ra sai số khi đo chiều dài của một vật là
+a. Đặt thước không song song và cách xa vật.
+b. Đặt mắt nhìn lệch.
+c. Một đầu của vật không đặt đúng vạch số 0 của thước.
+d. Cả 3 nguyên nhân trên
+
+Câu 6 : Lực đàn hồi có đặc điểm
+a. không phụ thuộc vào độ biến dạng.
+b. độ biến dạng tăng thì lực đàn hồi giảm.
+c. phụ thuộc vào môi trường bên ngoài.
+d. độ biến dạng tăng thì lực đàn hồi tăng.
+
+Câu 7 : Khi một người ngồi lên xe máy làm lốp xe biến dạng, nguyên nhân của sự biến dạng là do đâu?
+a. Lốp xe không chịu lực nào tác dụng.
+b. Lực hút của Trái Đất tác dụng vào người.
+c. Lực của người tác dụng vào lốp xe.
+d. Lực của mặt đất tác dụng vào lốp xe.
+
+Câu 8 : Buộc một đầu dây cao su lên giá đỡ treo vào đầu còn lại một túi nilong đựng nước. Dựa vào dấu hiệu nào sau đây để biết túi nilong đựng nước tác dụng vào dây cao su một lực?
+a. Túi nilong đựng nước không rơi.
+b. Túi nilong đựng nước bị biến dạng.
+c. Dây cao su dãn ra.
+d. Cả ba dấu hiệu trên.
+
+Câu 9 : Trước một chiếc cầu có một biển báo giao thông có ghi “5T”. Số 5T có ý nghĩa gì?
+a. Số 5T chỉ dẫn rằng xe có trên 5 người ngồi thì không được đi qua cầu.
+b. Số 5T chỉ dẫn rằng xe có khối lượng trên 5 tấn thì không được đi qua cầu.
+c. Số 5T chỉ dẫn rằng xe có khối lượng trên 50 tấn thì không được đi qua cầu.
+d. Số 5T chỉ dẫn rằng xe có khối lượng trên 5 tạ thì không được đi qua cầu.
+
+Câu 10 : Cho biết thước ở hình bên có giới hạn đo là 8 cm. Hãy xác định độ chia nhỏ nhất của thước.
+a. 1 mm
+b. 0,2 cm
+c. 0,2 mm
+d. 0,1 cm
+
